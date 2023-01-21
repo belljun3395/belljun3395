@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I live Suwon more than 10years but still use Busan Dialect**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> belljun3395@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
