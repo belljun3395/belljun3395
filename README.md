@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **belljun3395@gmail.com**
 
-- 📄 Know about my experiences [I don't have now..](I don't have now..)
-
 - ⚡ Fun fact **I live Suwon more than 10years but still use Busan Dialect**
 
 <h3 align="left">Languages and Tools:</h3>
