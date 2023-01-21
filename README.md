@@ -3,11 +3,11 @@
 
 - 🔭 My First Project in Econovation [Hairlog](https://github.com/JNU-econovation/Hairlog)
 
-- 🌱 I’m currently learning **Spring!**
-
 - 👯 My Second Project in Econovation [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
 
 - 🤝 Smilegate Winter dev [Smilegate personal project](https://github.com/belljun3395/sgdevcamp_auth.git)
+
+- 🌱 I’m currently learning **Spring!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/belljun3395](https://github.com/belljun3395)
 
