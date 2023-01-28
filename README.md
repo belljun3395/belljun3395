@@ -31,7 +31,7 @@ I Studied and Not Use Now!
 + Node.js
 + Express
 
-<h4 align="left"> Exprience & Project 🤙🏻</h4>
+<h4 align="left"> Exprience & Project 🫠</h4>
 
 Econovation
 
