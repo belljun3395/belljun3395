@@ -1,18 +1,24 @@
 <h1 align="left">안녕하세요 👋, 저는 김종준 입니다!</h1>
 <h3 align="left">저는 기억하기보다는 이해하는 개발자가 되고 싶습니다.</h3>
 
+---
+
 <h4 align="left"> Introduction 🙋🏻‍♂️</h4>
 
 + 안녕하세요! 저는 개발 공부 2년차 백엔드 개발자 김종준입니다.
 + 저는 이것저것 생각하고 그것을 구체화하는 것을 좋아하는데 우연한 기회에 개발을 알게되고 개발에 빠져버렸습니다.
 + 저는 많이 아는 것만이 좋은 것이라 여겼던 "개발 사춘기"를 지나 개발을 이해하려 노력하며 공부중입니다.
 + 현재 econovation(2022~)이라는 동아리에 소속되어 있으며 그곳에서 다양한 활동을 하고 있습니다.
+
+---
   
 <h4 align="left"> Contact & Channer 🤙🏻</h4>
 
 + Email | belljun3395@gmail.com
 + Github | https://github.com/belljun3395
 + Blog | https://velog.io/@belljun3395
+
+---
 
 <h4 align="left"> Skills 🔨</h4>
 
@@ -30,6 +36,8 @@ I Studied and Not Use Now!
 + JavaScript
 + Node.js
 + Express
+
+---
 
 <h4 align="left"> Exprience & Project 🫠</h4>
 
