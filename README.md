@@ -1,24 +1,53 @@
-<h1 align="center">Hi 👋, I'm jongjun</h1>
-<h3 align="center">I want to be backend developer</h3>
+<h1 align="left">안녕하세요 👋, 저는 김종준 입니다!</h1>
+<h3 align="left">저는 기억하기보다는 이해하는 개발자가 되고 싶습니다.</h3>
 
-- 🔭 My First Project in Econovation [Hairlog](https://github.com/JNU-econovation/Hairlog)
+<h4 align="left"> Introduction 🙋🏻‍♂️</h4>
 
-- 👯 My Second Project in Econovation [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
++ 안녕하세요! 저는 개발 공부 2년차 백엔드 개발자 김종준입니다.
++ 저는 이것저것 생각하고 그것을 구체화하는 것을 좋아하는데 우연한 기회에 개발을 알게되고 개발에 빠져버렸습니다.
++ 저는 많이 아는 것만이 좋은 것이라 여겼던 "개발 사춘기"를 지나 개발을 이해하려 노력하며 공부중입니다.
++ 현재 econovation(2022~)이라는 동아리에 소속되어 있으며 그곳에서 다양한 활동을 하고 있습니다.
+  
+<h4 align="left"> Contact & Channer 🤙🏻</h4>
 
-- 🤝 Smilegate Winter dev [Smilegate personal project](https://github.com/belljun3395/sgdevcamp_auth.git)
++ Email | belljun3395@gmail.com
++ Github | https://github.com/belljun3395
++ Blog | https://velog.io/@belljun3395
 
-- 🌱 I’m currently learning **Spring!**
+<h4 align="left"> Skills 🔨</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/belljun3395](https://github.com/belljun3395)
+<h5> Backend </h5>
 
-- 📝 I regularly write articles on [https://velog.io/@belljun3395](https://velog.io/@belljun3395)
+I Study and Use Now!
 
-- 💬 Ask me about **Spring.. Node.js..?**
++ Java
++ Spring Boot, Spring MVC
++ Spring Data JPA, JPA
++ IntelliJ
++ Git
 
-- 📫 How to reach me **belljun3395@gmail.com**
+I Studied and Not Use Now!
++ JavaScript
++ Node.js
++ Express
 
-- ⚡ Fun fact **I live Suwon more than 10years but still use Busan Dialect**
+<h4 align="left"> Exprience & Project 🤙🏻</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+Econovation
 
++ 2022 -1 
+  + Hairlog라는 BackEnd로 Node.js를 사용하여 진행한 첫 프로젝트 [Hairlog](https://github.com/JNU-econovation/Hairlog)
+  + [2022 SummerDev 발표영상](https://youtu.be/Ah_HWVC4IM4?t=7875)
+  + 2022 SummerDev TF 팀 참여(홍보 및 방송팀)
+  + Oasis 해커톤 참가 [Because This is My First Hackathon](https://github.com/belljun3395/oasis-BecauseThisIsMyFirstHackathon)
+  
++ 2022 -2
+  + 2022 2학기 신입모집 TF팀 (홍보 및 면접 참여)
+  + Iptime 설정 페이지를 활용한 Econovation 동아리방 현황 파악을 위한 Iptime API를 개발한 프로젝트 [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
+  + [2023 WinterDev 발표 영상](https://youtu.be/wOqimi4O8H4?t=4430)
+ 
+SmileGate Winter Dev
+
++ 개인 프로젝트 [Smilegate personal project](https://github.com/belljun3395/sgdevcamp_auth.git)
+
++ 팀 프로젝트 (~ing) [AllIn](https://github.com/belljun3395/allin)
