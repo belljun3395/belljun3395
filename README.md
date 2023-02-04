@@ -17,7 +17,8 @@
 
 + Email | belljun3395@gmail.com
 + Github | https://github.com/belljun3395
-+ Blog | https://velog.io/@belljun3395
++ Blog(tech) | https://velog.io/@belljun3395
++ Blog(think & project) | https://medium.com/@belljun3395
 
 ---
 
