@@ -64,4 +64,4 @@ SmileGate Winter Dev (2022.12 ~ 2023.02)
 
 + 개인 프로젝트 [Smilegate personal project](https://github.com/belljun3395/sgdevcamp_auth.git)
 
-+ 팀 프로젝트 (~ing) [AllIn](https://github.com/belljun3395/allin)
++ 팀 프로젝트 [AllIn](https://github.com/belljun3395/allin)
