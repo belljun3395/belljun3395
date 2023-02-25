@@ -46,7 +46,6 @@ I Studied and Not Use Now!
 
 **대표 프로젝트** :
 1) [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
-2) [AllIn](https://github.com/belljun3395/allin)
 
 Econovation(2022-1 ~ )
 
