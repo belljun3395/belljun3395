@@ -59,9 +59,3 @@ Econovation(2022-1 ~ )
   + 2022 2학기 신입모집 TF팀 (홍보 및 면접 참여)
   + Iptime 설정 페이지를 활용한 Econovation 동아리방 현황 파악을 위한 Iptime API를 개발한 프로젝트 [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
   + [2023 WinterDev 발표 영상](https://youtu.be/wOqimi4O8H4?t=4430)
- 
-SmileGate Winter Dev (2022.12 ~ 2023.02)
-
-+ 개인 프로젝트 [Smilegate personal project](https://github.com/belljun3395/sgdevcamp_auth.git)
-
-+ 팀 프로젝트 [AllIn](https://github.com/belljun3395/allin)
