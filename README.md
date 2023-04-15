@@ -14,7 +14,7 @@
 
 ---
   
-<h4 align="left"> Contact & Channer 🤙🏻</h4>
+<h4 align="left"> Contact & Channel 🤙🏻</h4>
 
 + Email | belljun3395@gmail.com
 + Github | https://github.com/belljun3395
