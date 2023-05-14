@@ -45,7 +45,7 @@ I Studied and Not Use Now!
 <h4 align="left"> Exprience & Project 🫠</h4>
 
 **대표 프로젝트** :
-1) [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
+1) [hairlogsrping](https://github.com/belljun3395/hairlogspring)
 
 Econovation(2022-1 ~ )
 
