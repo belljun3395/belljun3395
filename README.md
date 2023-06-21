@@ -46,8 +46,7 @@ I Studied and Not Use Now!
 <h4 align="left"> Exprience & Project 🫠</h4>
 
 **대표 프로젝트** :
-1) [hairlogsrping](https://github.com/belljun3395/hairlogspring)
-2) econoForest [origin](https://github.com/JNU-econovation/econo-forest-be-iptime) / [refac](https://github.com/belljun3395/WifiConnectObserver)
+econoForest(refac) : [WifiConnectObserver](https://github.com/belljun3395/WifiConnectObserver)
 
 
 Econovation(2022-1 ~ )
