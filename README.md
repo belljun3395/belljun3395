@@ -1,7 +1,7 @@
 <h1 align="left">안녕하세요 👋, 저는 김종준 입니다!</h1>
 <h3 align="left">저는 기억하기보다는 이해하는 개발자가 되고 싶습니다.</h3>
 
-[4,5월의 김종준](https://medium.com/@belljun3395/4-5%EC%9B%94%EC%9D%98-%EB%82%98-de54a78b4b17)
+[6월의 김종준](https://medium.com/@belljun3395/6%EC%9B%94%EC%9D%98-%EB%82%98-64687ed3bceb)
 ---
 
 <h4 align="left"> Introduction 🙋🏻‍♂️</h4>
