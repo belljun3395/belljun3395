@@ -62,3 +62,6 @@ Econovation(2022-1 ~ )
   + 2022 2학기 신입모집 TF팀 (홍보 및 면접 참여)
   + Iptime 설정 페이지를 활용한 Econovation 동아리방 현황 파악을 위한 Iptime API를 개발한 프로젝트 [Econo_Forest_iptime](https://github.com/JNU-econovation/econo-forest-be-iptime)
   + [2023 WinterDev 발표 영상](https://youtu.be/wOqimi4O8H4?t=4430)
+
++ 2023 -1
+  + SW 공동 해커톤 참가 및 **"클라섬 대표 특별상"** 수상 
