@@ -64,4 +64,5 @@ Econovation(2022-1 ~ )
   + [2023 WinterDev 발표 영상](https://youtu.be/wOqimi4O8H4?t=4430)
 
 + 2023 -1
-  + SW 공동 해커톤 참가 및 **"클라섬 대표 특별상"** 수상 
+  + SW 공동 해커톤 참가 및 **"클라섬 대표 특별상"** 수상
+  + [짝심삼일](https://www.depromeet.com/project/%EC%A7%9D%EC%8B%AC%EC%82%BC%EC%9D%BC) 애플 로그인 기능 개발 기여 [PR](https://github.com/depromeet12th/three-days-server/pull/117)
