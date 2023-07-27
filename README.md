@@ -20,7 +20,6 @@
 + Github | https://github.com/belljun3395
 + Blog(tech) | https://velog.io/@belljun3395
 + Blog(think & project) | https://medium.com/@belljun3395
-+ Profile | [포토폴리오 다운](https://drive.google.com/uc?export=download&id=1fUCy2lIEpBoDkqu0X1rdGQbfmdCRxIPo)
 
 ---
 
