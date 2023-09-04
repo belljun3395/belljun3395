@@ -57,4 +57,4 @@ Econovation(2022-1 ~ )
 + 2023 -1
   + SW 공동 해커톤 참가 및 **"클라섬 대표 특별상"** 수상
   + [짝심삼일](https://www.depromeet.com/project/%EC%A7%9D%EC%8B%AC%EC%82%BC%EC%9D%BC) 애플 로그인 기능 개발 기여 [PR](https://github.com/depromeet12th/three-days-server/pull/117)
-  + Econo_Forest_iptime 리펙토링 [WifiConnectObserver](https://github.com/belljun3395/WifiConnectObserver)
+  + Econo_Forest_iptime 리펙토링 [WifiConnectObserver](https://github.com/belljun3395/WifiObserver)
