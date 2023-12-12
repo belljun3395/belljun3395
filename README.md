@@ -1,12 +1,10 @@
 <h1 align="left">안녕하세요 👋, 저는 김종준 입니다!</h1>
-<h3 align="left">저는 기억하기보다는 이해하는 개발자가 되고 싶습니다.</h3>
+<h3 align="left">고민할 수 있는 개발자가 되고 싶습니다.</h3>
 
 <h4 align="left"> Introduction 🙋🏻‍♂️</h4>
 
 + 안녕하세요! 저는 개발 공부 2년차 백엔드 개발자 김종준입니다.
-+ 저는 이것저것 생각하고 그것을 구체화하는 것을 좋아하는데 우연한 기회에 개발을 알게되고 개발에 빠져버렸습니다.
-+ 저는 많이 아는 것만이 좋은 것이라 여겼던 "개발 사춘기"를 지나 개발을 이해하려 노력하며 공부중입니다. 
-  + [jongjun](https://github.com/belljun3395/jongjun) 그리고 [velog](https://velog.io/@belljun3395)에 기록을 업데이트 중입니다!
++ 앞으로 개발을 통해 여러 문제를 해결 할 수 있을 것이라는 기대를 가지고 노력하고 있습니다.
 + 현재 [econovation](https://econovation.kr/about)(2022~)이라는 동아리에 소속되어 있으며 그곳에서 다양한 활동을 하고 있습니다.
 
 ---
@@ -15,8 +13,8 @@
 
 + Email | belljun3395@gmail.com
 + Github | https://github.com/belljun3395
-+ Blog(tech) | https://velog.io/@belljun3395
-+ Blog(think & project) | https://medium.com/@belljun3395
++ 블로그 | https://belljun.tistory.com , https://belljundev.tistory.com
++ 공부 | https://velog.io/@belljun3395
 
 ---
 
@@ -55,6 +53,5 @@ Econovation(2022-1 ~ )
   + [2023 WinterDev 발표 영상](https://youtu.be/wOqimi4O8H4?t=4430)
 
 + 2023 -1
-  + SW 공동 해커톤 참가 및 **"클라섬 대표 특별상"** 수상
   + [짝심삼일](https://www.depromeet.com/project/%EC%A7%9D%EC%8B%AC%EC%82%BC%EC%9D%BC) 애플 로그인 기능 개발 기여 [PR](https://github.com/depromeet12th/three-days-server/pull/117)
   + Econo_Forest_iptime 리펙토링 [WifiConnectObserver](https://github.com/belljun3395/WifiObserver)
