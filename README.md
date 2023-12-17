@@ -13,7 +13,7 @@
 
 + Email | belljun3395@gmail.com
 + Github | https://github.com/belljun3395
-+ 블로그 | https://belljun.tistory.com , https://belljundev.tistory.com
++ 블로그 | https://belljundev.tistory.com
 + 공부 | https://velog.io/@belljun3395
 
 ---
