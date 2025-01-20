@@ -5,7 +5,6 @@
 + Email | belljun3395@gmail.com
 + Github | https://github.com/belljun3395
 + 블로그 | https://belljundev.tistory.com
-+ 공부 | https://velog.io/@belljun3395
 
 <h4 align="left"> Skills 🔨</h4>
 
