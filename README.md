@@ -27,4 +27,5 @@ I Studied and Not Use Now!
 |  | [Add KoinPropTestListener for Property-Based Testing](https://github.com/kotest/kotest/pull/4899) |
 | assertj | [add hasValueMatching method to verify predicate matches](https://github.com/assertj/assertj/pull/3863) |
 | spring-data-redis | [Escape backslashes in source string before loading properties](https://github.com/spring-projects/spring-data-redis/pull/3172) |
+| spring-cloud-function | [Add Azure Event Grid integration with CloudEvents support](https://github.com/spring-cloud/spring-cloud-function/pull/1299) |
 
