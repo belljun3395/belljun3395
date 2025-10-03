@@ -29,4 +29,7 @@ I Studied and Not Use Now!
 | spring-projects | [Optimize parameter matching in TableMetaDataContext](https://github.com/spring-projects/spring-framework/pull/35417) |
 | spring-data-redis | [Escape backslashes in source string before loading properties](https://github.com/spring-projects/spring-data-redis/pull/3172) |
 | spring-cloud-function | [Add Azure Event Grid integration with CloudEvents support](https://github.com/spring-cloud/spring-cloud-function/pull/1299) |
+| spring-cloud-stream | [Add consumer priority](https://github.com/spring-cloud/spring-cloud-stream/pull/3147) |
+| spring-cloud-task | [MongoDB Support for Spring Cloud Task](https://github.com/spring-cloud/spring-cloud-task/pull/958) |
+
 
